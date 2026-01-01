@@ -13,7 +13,6 @@
     "check": "biome check"
   },
   "dependencies": {
-    "@tailwindcss/vite": "^4.0.6",
     "@tanstack/react-devtools": "^0.7.0",
     "@tanstack/react-query": "^5.66.5",
     "@tanstack/react-query-devtools": "^5.84.2",
@@ -22,10 +21,12 @@
     "@tanstack/react-router-ssr-query": "^1.131.7",
     "@tanstack/react-start": "^1.132.0",
     "@tanstack/router-plugin": "^1.132.0",
-    "lucide-react": "^0.561.0",
+    "@vanilla-extract/css": "^1.18.0",
+    "es-toolkit": "^1.43.0",
+    "motion": "^12.23.26",
+    "overlay-kit": "^1.8.6",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
-    "tailwindcss": "^4.0.6",
     "vite-tsconfig-paths": "^6.0.2"
   },
   "devDependencies": {
@@ -37,6 +38,7 @@
     "@types/node": "^22.10.2",
     "@types/react": "^19.2.0",
     "@types/react-dom": "^19.2.0",
+    "@vanilla-extract/vite-plugin": "^5.1.4",
     "@vitejs/plugin-react": "^5.0.4",
     "babel-plugin-react-compiler": "^1.0.0",
     "jsdom": "^27.0.0",
