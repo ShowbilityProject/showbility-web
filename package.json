@@ -22,11 +22,14 @@
     "@tanstack/react-start": "^1.132.0",
     "@tanstack/router-plugin": "^1.132.0",
     "@vanilla-extract/css": "^1.18.0",
+    "classnames": "^2.5.1",
     "es-toolkit": "^1.43.0",
+    "modern-normalize": "^3.0.1",
     "motion": "^12.23.26",
     "overlay-kit": "^1.8.6",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
+    "react-intersection-observer": "^10.0.0",
     "vite-tsconfig-paths": "^6.0.2"
   },
   "devDependencies": {
